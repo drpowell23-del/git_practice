@@ -6,3 +6,7 @@ Successfully pushed to GitHub!
 
 ## About me
 Learning Git and Github for the first time!
+
+## Features
+- Calculator with basic math operations
+- Error handling for divsion by zero
